@@ -1,0 +1,16 @@
+.menu-item {
+    background: #f9f9f9;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+  }
+  
+  .menu-item h3 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .menu-item p {
+    margin: 5px 0;
+  }
+  
